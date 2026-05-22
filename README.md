@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gurleen-singh-bhatia"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://me.developers.google.com/u/gurleen-singh-bhatia"><img src="https://img.shields.io/badge/Google_Developers-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"></a>
   <a href="https://kaggle.com/gurleensinghbhatia"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://www.leetcode.com/gurleensingh1608"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://www.hackerrank.com/gurleen07"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
@@ -16,17 +17,18 @@
 
 ---
 
-### 🚀 Featured Engineering
+### 🚀 Featured Engineering & Projects
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
 | **[Cafe Foundry](https://cafefoundry.vercel.app/)** | A modern web application completely "vibe-coded" using natural language AI tools, showcasing rapid AI-assisted development. | Next.js, Vibe Coding |
-| **Omni-Sentinel-RAG** | Local-first agentic monitoring system for secure, zero-cost inference. | LangGraph, Ollama |
-| **Aura-UX** | Synthetic intelligence system for predictive user simulation and UX testing. | Pydantic, LangGraph |
-| **Titan** | Advanced GraphRAG implementation for enhanced context retrieval and reasoning. | RAG, Graph DBs |
-| **Custom MCP Server** | Automated local platform for data science and software engineering tasks. | MCP, Agents |
-| **[Diamond Price Prediction](https://github.com/GurleenSingh0701/diamond-price-prediction)** | End-to-end Machine Learning model predicting diamond prices. | Python, Flask, ML |
-
+| **[Omni-Sentinel-RAG](https://github.com/GurleenSingh0701/Omni-Sentinel-RAG)** | Local-first agentic monitoring system for secure, zero-cost inference. | LangGraph, Ollama |
+| **[Aura-UX](https://github.com/GurleenSingh0701/Aura-UX)** | Synthetic intelligence system for predictive user simulation and UX testing. | Pydantic, LangGraph |
+| **[Titan](https://github.com/GurleenSingh0701/Titan)** | Advanced GraphRAG implementation for enhanced context retrieval and reasoning. | RAG, Graph DBs |
+| **[Custom MCP Server](https://github.com/GurleenSingh0701)** | Automated local platform for data science and software engineering tasks. | MCP, Agents |
+| **[Password Manager](https://github.com/GurleenSingh0701/Password-Manager)** | Secure, encrypted password manager built with a modern frontend stack. | Next.js, TypeScript |
+| **[College Chat App](https://github.com/GurleenSingh0701/college-project)** | Real-time chat application featuring persistent messaging. | TypeScript, CSS |
+| **[Netflix Clone](https://github.com/GurleenSingh0701/Netflix_clone)** | Frontend clone showcasing responsive UI and media data fetching. | React, Firebase |
 ---
 
 ### 💻 Tech Stack & Tools
@@ -55,16 +57,3 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurleensingh0701&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurleensingh0701&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
-</div>
-
-<!-- 
-💡 If you have public repositories for the AI projects, don't forget to update the plain text names in the table with Markdown links, just like Cafe Foundry! 
--->
